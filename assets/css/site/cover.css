@@ -22,7 +22,7 @@ body:not(.with-full-cover) .cover {
     z-index: 10;
     content: "";
     background-color: #000;
-    opacity: 0.3;
+    opacity: 0;
     transition: opacity 1.5s ease;
 }
 
